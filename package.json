@@ -1,0 +1,12 @@
+{
+  "name": "stattic-pstat",
+  "version": "0.1.0",
+  "description": "Simple way for check if path exists and is a file/directory.",
+  "keywords": ["file", "dir", "directory", "exists", "path"],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "main": "./index.js",
+  "repository": { "type": "git", "url": "https://github.com/statticjs/stattic-pstat.git" },
+  "scripts": { },
+  "dependencies": { },
+  "license": "MIT"
+}
